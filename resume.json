@@ -1,0 +1,62 @@
+{
+	"basics": {
+		"name": "Amandeep Singh Jadoun",
+		"label": "Student",
+		"picture": "https://avatars.githubusercontent.com/u/82511501?s=400&u=8578cc94e8220461020059b56d5aa52114487ed3&v=4",
+		"email": "2020kucp1035@iiitkota.ac.in",
+		"phone": "7354973933",
+		"website": " ",
+		"summary": "Keen Learner,Enthusiastic and always ready to explore new things.",
+		"location": {
+			"address": "958/9,Rajput Nagar , Bhind , Madhya Pradesh",
+			"postalCode": "477001",
+			"city": "Bhind",
+			"countryCode": "India",
+			"region": "Madhya Pradesh"
+		},
+		"profiles": [{
+				"network": "Twitter",
+				"username": "@AmandeepJadoun",
+				"url": "https://twitter.com/AmandeepJadoun"
+			},
+			{
+				"network": "Github",
+				"username": "Amandeep-jadoun",
+				"url": "https://github.com/Amandeep-jadoun"
+			},
+			{
+				"network": "linkedin",
+				"username": "Amandeep Singh Jadoun",
+				"url": "https://www.linkedin.com/in/amandeep-singh-jadoun-480aaa1bb/"
+			},
+			{
+				"network": "Instagram",
+				"username": "jadounamandeepsingh",
+				"url": "https://instagram.com/jadounamandeepsingh"
+			}
+		]
+	},
+
+
+	"education": [{
+		"institution": "Indian Institute of Information technology,kota",
+		"area": "Engineering",
+		"studyType": "Bachelor (hons)",
+		"startDate": "2020-12-05 ",
+		"endDate": "2024",
+		"gpa": "---",
+		"courses": [
+			"Computer Science & Engineering"
+		]
+	}],
+
+	"skills": [{
+		"level": "Master",
+		"keywords": ["HTML", "CSS", "Javascript", "Bootstrap", "C/C++"]
+	}],
+	"interests": [{
+		"name": "Sports",
+		"keywords": ["Cricket", "Badminton"]
+	}],
+	"references": []
+}
